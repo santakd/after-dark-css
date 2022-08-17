@@ -8,7 +8,7 @@ If so, then never fear—CSS is here! Using modern CSS techniques like animation
 
 The animations were made with CSS alone. No animated gifs or JavaScript.
 
-### [See them here!](http://bryanbraun.github.io/after-dark-css/)
+### [See them here!](https://santakd.github.io/after-dark-css/)
 
 #### Why?
 

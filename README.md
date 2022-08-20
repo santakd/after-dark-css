@@ -1,4 +1,4 @@
-# After Dark in CSS
+## After Dark in CSS
 
 ![Flying Toasters in CSS](img/flying-toasters-css.jpg)
 
@@ -12,7 +12,7 @@ The animations were made with CSS alone. No animated gifs or JavaScript.
 
 #### Why?
 
-Just for fun.
+Just for nostalgic fun.
 
 #### Thanks to:
 
